@@ -1,6 +1,6 @@
 # google-indexing-api-bulk
 
-Created by Steve at [Journey Further SEO](https://www.journeyfurther.com/)
+Rebuild At SUPERBONE
 
 Requires node.js - https://nodejs.org/en/download/
 
@@ -25,7 +25,7 @@ You can find your service account email address in two places:
 - The Service account ID column of the Service Accounts view in the Developer Console.
 - The email address has a format similar to the following:
 
-For example, "my-service-account@test-project-42.google.com.iam.gserviceaccount.com".
+For example, "superboneapi@superboneapi.iam.gserviceaccount.com".
 
 Then...
 
